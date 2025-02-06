@@ -14,3 +14,6 @@
   window.helloSpeaker = helloSpeaker;
 
 })(window);
+
+// NOTE! The steps in this file are basically identical to the ones you
+// performed in the SpeakGoodBye.js file.
